@@ -1,0 +1,56 @@
+
+
+.loginForm {
+    border: 2px solid #ccc;
+    padding: 0 50px 50px 50px;
+}
+.userForm Button{
+    background: #F9A51A;
+}
+.userForm Button {
+    background: #F9A51A; 
+    margin-top: 20px;
+    width: 100%;
+    font-weight: 700;
+    text-transform: inherit;
+}
+.loginText{
+    color: #F9A51A;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.MuiInputBase-input.MuiInput-input {
+    padding: 10px;
+}
+element {
+
+}
+.socialLogin img {
+
+    width: 37px;
+    float: left;
+
+}
+.socialLogin {
+
+    width: 80%;
+    background: #fff;
+    border: 1px solid #C7C7C7;
+    font-size: 18px;
+    color: #5e5e5e;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 25px;
+
+}
+.socialLogin img {
+    width: 37px;
+    float: left;
+}
+.errorMsg {
+    margin: 0;
+        margin-top: 0px;
+    font-size: 12px;
+    color: red;
+    margin-top: 4px;
+}

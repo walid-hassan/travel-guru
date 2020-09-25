@@ -1,0 +1,29 @@
+.allhotel {
+    margin-bottom: 25px;
+}
+.hotels h4 {
+    color: #777;
+    margin: 0;
+}
+.hotels p {
+    color: #555454;
+    font-size: 14px;
+    font-weight: 500;
+}
+.hotels {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.rating, .price{
+    width: 45%;
+    float: left;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 50px;
+    font-weight: 700;
+    color: #8a8a8a;
+}
+.rating{
+    color: #F9A51A;
+}

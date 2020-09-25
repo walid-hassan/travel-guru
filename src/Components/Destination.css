@@ -1,0 +1,6 @@
+.placeImg {
+    max-width: 90%;
+    border: 2px solid white;
+    box-shadow: 5px 5px 20px black;
+    margin: 10px;
+}

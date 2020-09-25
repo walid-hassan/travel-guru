@@ -1,0 +1,17 @@
+.contactPage{
+    background-image: url("../Image/contact.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #ccc;
+    background-blend-mode: darken;
+    height: 100vh;
+}
+.contactForm {
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.58);
+    box-shadow: 5px 5px 20px #646363;
+}
+.contactForm TextField{
+    border: #fff;
+}

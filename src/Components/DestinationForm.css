@@ -1,0 +1,40 @@
+.destinationFormPage{
+    background-image: url('../Image/Rectangle\ 1.png');
+    background-color: rgba(0, 0, 0, 0.616);
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    min-height: 100vh;
+}
+.destinationFormSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.destinationForm{
+    background-color: #fff;
+    width: 60%;
+    padding: 20px;
+}
+.MuiFormControl-marginNormal {
+    margin-top: 16px;
+    margin-bottom: 8px;
+    float: left;
+    width: 45%;
+    margin-right: 10px !important;
+}
+.inputFildMargin{
+    margin: 10px;
+}
+.MuiOutlinedInput-root {
+    position: relative;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+#bookingBtn {
+    background: #F9A51A;
+    width: 100%;
+    font-weight: 700;
+    text-transform: unset;
+}
